@@ -1,0 +1,7 @@
+pandas
+transformers
+torch
+torchvision
+chromadb
+langchain
+langchain-groq
