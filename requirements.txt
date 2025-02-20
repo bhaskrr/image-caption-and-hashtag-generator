@@ -3,5 +3,6 @@ transformers
 torch
 torchvision
 chromadb
+sqlite3
 langchain
 langchain-groq
