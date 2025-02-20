@@ -13,7 +13,7 @@ submit = st.button("✨ Generate")
 
 if submit and file is not None:
     # Display Uploaded Image
-    st.image(file, caption="Uploaded Image", use_column_width=True)
+    st.image(file, caption="Uploaded Image", use_container_width=True)
 
     # Generate Response
     response = generate(file)
