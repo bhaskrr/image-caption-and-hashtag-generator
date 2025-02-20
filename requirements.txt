@@ -1,6 +1,7 @@
 transformers
 torch
 torchvision
+pysqlite3
 chromadb
 langchain
 langchain-groq
