@@ -34,4 +34,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any questions or suggestions, please contact me on [LinekdIn](www.linkedin.com/in/bhaskar-bordoloi-74390b341).
+For any questions or suggestions, please contact me on [LinkedIn](https://www.linkedin.com/in/bhaskar-bordoloi-74390b341).
